@@ -8,7 +8,7 @@
       "category": "Nature",
       "title": "Serene Mountain Sunrise",
       "downloadCount": 13043,
-      "dominantColor": "yellow",
+      "dominantColor": "green",
       "type": "image",
       "enabled": true
     },
@@ -18,7 +18,7 @@
       "category": "Nature",
       "title": "Golden Sunset Over the Ocean",
       "downloadCount": 13300,
-      "dominantColor": "blue",
+      "dominantColor": "black",
       "type": "image",
       "enabled": true
     },
@@ -148,7 +148,7 @@
       "category": "Nature",
       "title": "Sunlight Through Trees",
       "downloadCount": 16641,
-      "dominantColor": "white",
+      "dominantColor": "green",
       "type": "image",
       "enabled": true
     },
@@ -178,7 +178,7 @@
       "category": "Cars",
       "title": "Midnight Speed Machine",
       "downloadCount": 30412,
-      "dominantColor": "black",
+      "dominantColor": "blue",
       "type": "image",
       "enabled": true
     },
@@ -188,7 +188,7 @@
       "category": "Cars",
       "title": "Urban Night Drive",
       "downloadCount": 30669,
-      "dominantColor": "red",
+      "dominantColor": "blue",
       "type": "image",
       "enabled": true
     },
@@ -198,7 +198,7 @@
       "category": "Cars",
       "title": "Golden Hour Ride",
       "downloadCount": 30926,
-      "dominantColor": "yellow",
+      "dominantColor": "black",
       "type": "image",
       "enabled": true
     },
@@ -208,7 +208,7 @@
       "category": "Cars",
       "title": "Neon Street Motion",
       "downloadCount": 31183,
-      "dominantColor": "black",
+      "dominantColor": "red",
       "type": "image",
       "enabled": true
     },
@@ -218,7 +218,7 @@
       "category": "Cars",
       "title": "Highway Power Run",
       "downloadCount": 31440,
-      "dominantColor": "red",
+      "dominantColor": "black",
       "type": "image",
       "enabled": true
     },
@@ -228,7 +228,7 @@
       "category": "Cars",
       "title": "Rainy City Drive",
       "downloadCount": 31697,
-      "dominantColor": "black",
+      "dominantColor": "yellow",
       "type": "image",
       "enabled": true
     },
@@ -238,7 +238,7 @@
       "category": "Cars",
       "title": "Shadowed Performance",
       "downloadCount": 31954,
-      "dominantColor": "black",
+      "dominantColor": "red",
       "type": "image",
       "enabled": true
     },
@@ -248,7 +248,7 @@
       "category": "Cars",
       "title": "Luxury Night Cruiser",
       "downloadCount": 32211,
-      "dominantColor": "red",
+      "dominantColor": "yellow",
       "type": "image",
       "enabled": true
     },
@@ -258,7 +258,7 @@
       "category": "Cars",
       "title": "Street Racing Vibes",
       "downloadCount": 32468,
-      "dominantColor": "black",
+      "dominantColor": "yellow",
       "type": "image",
       "enabled": true
     },
@@ -268,7 +268,7 @@
       "category": "Cars",
       "title": "Sunset Road Journey",
       "downloadCount": 32725,
-      "dominantColor": "yellow",
+      "dominantColor": "blue",
       "type": "image",
       "enabled": true
     },
@@ -282,153 +282,14 @@
       "type": "image",
       "enabled": true
     },
-    {
-      "id": "029",
-      "url": "https://i.pinimg.com/1200x/5e/74/8b/5e748b1f39840ab40022ab0dd5ac3556.jpg",
-      "category": "Islamic",
-      "title": "Peaceful Mosque Glow",
-      "downloadCount": 18239,
-      "dominantColor": "mixed",
-      "type": "image",
-      "enabled": true
-    },
-    {
-      "id": "030",
-      "url": "https://i.pinimg.com/1200x/9b/1f/cd/9b1fcd2f7db9760d6b0c5372824dc6be.jpg",
-      "category": "Islamic",
-      "title": "Golden Dome Serenity",
-      "downloadCount": 18496,
-      "dominantColor": "yellow",
-      "type": "image",
-      "enabled": true
-    },
-    {
-      "id": "031",
-      "url": "https://i.pinimg.com/1200x/93/bf/54/93bf5411accd4c4abf61d8d2b3028828.jpg",
-      "category": "Islamic",
-      "title": "Sunset Mosque Reflection",
-      "downloadCount": 18753,
-      "dominantColor": "yellow",
-      "type": "image",
-      "enabled": true
-    },
-    {
-      "id": "032",
-      "url": "https://i.pinimg.com/1200x/69/41/83/6941839c9b33157d436fe1e3e6284dde.jpg",
-      "category": "Islamic",
-      "title": "Sacred Night Lights",
-      "downloadCount": 19010,
-      "dominantColor": "white",
-      "type": "image",
-      "enabled": true
-    },
-    {
-      "id": "033",
-      "url": "https://i.pinimg.com/1200x/a6/e0/fc/a6e0fcad5d2c4d759ec91fbdfe316143.jpg",
-      "category": "Islamic",
-      "title": "Islamic Geometric Beauty",
-      "downloadCount": 19267,
-      "dominantColor": "mixed",
-      "type": "image",
-      "enabled": true
-    },
-    {
-      "id": "034",
-      "url": "https://i.pinimg.com/1200x/f4/ac/ec/f4acecd04d7496be964747f6b4499172.jpg",
-      "category": "Islamic",
-      "title": "Holy City Skyline",
-      "downloadCount": 15024,
-      "dominantColor": "blue",
-      "type": "image",
-      "enabled": true
-    },
-    {
-      "id": "035",
-      "url": "https://i.pinimg.com/1200x/8f/7d/f8/8f7df89d5f8a25b3848c93763aed4d54.jpg",
-      "category": "Islamic",
-      "title": "Calm Prayer Atmosphere",
-      "downloadCount": 15281,
-      "dominantColor": "mixed",
-      "type": "image",
-      "enabled": true
-    },
-    {
-      "id": "036",
-      "url": "https://i.pinimg.com/1200x/fe/26/3d/fe263dad407073e55ef2c483be2bfa7b.jpg",
-      "category": "Islamic",
-      "title": "Elegant Arabic Calligraphy",
-      "downloadCount": 15538,
-      "dominantColor": "mixed",
-      "type": "image",
-      "enabled": true
-    },
-    {
-      "id": "037",
-      "url": "https://i.pinimg.com/1200x/79/0f/b9/790fb92209b41fd080ea11ea9624925e.jpg",
-      "category": "Islamic",
-      "title": "Moonlit Mosque View",
-      "downloadCount": 15795,
-      "dominantColor": "mixed",
-      "type": "image",
-      "enabled": true
-    },
-    {
-      "id": "038",
-      "url": "https://i.pinimg.com/1200x/22/45/ff/2245ffb5997df4b2eb721c42a87eaae8.jpg",
-      "category": "Islamic",
-      "title": "Spiritual Morning Light",
-      "downloadCount": 16052,
-      "dominantColor": "white",
-      "type": "image",
-      "enabled": true
-    },
-    {
-      "id": "039",
-      "url": "https://i.pinimg.com/1200x/6c/07/c3/6c07c35335528e8aff09176a4a0f10a4.jpg",
-      "category": "Islamic",
-      "title": "Sacred Architecture Art",
-      "downloadCount": 16309,
-      "dominantColor": "red",
-      "type": "image",
-      "enabled": true
-    },
-    {
-      "id": "040",
-      "url": "https://i.pinimg.com/1200x/c8/cb/0c/c8cb0ceadd902262bb221584b490324c.jpg",
-      "category": "Islamic",
-      "title": "Divine Light Path",
-      "downloadCount": 16566,
-      "dominantColor": "white",
-      "type": "image",
-      "enabled": true
-    },
-    {
-      "id": "041",
-      "url": "https://i.pinimg.com/1200x/d9/4d/cf/d94dcf5d6794336c316b5e1576f725b5.jpg",
-      "category": "Islamic",
-      "title": "Harmonious Islamic Patterns",
-      "downloadCount": 16823,
-      "dominantColor": "mixed",
-      "type": "image",
-      "enabled": true
-    },
-    {
-      "id": "042",
-      "url": "https://i.pinimg.com/1200x/65/a1/31/65a131ae861018afae56ab4d4fa8ef47.jpg",
-      "category": "Building",
-      "title": "Dubi Khalifa Tower",
-      "downloadCount": 98773434,
-      "dominantColor": "mixed",
-      "type": "image",
-      "enabled": true
-    },
+   
     {
       "id": "v001",
       "url": "https://v1.pinimg.com/videos/iht/720p/2e/2a/3e/2e2a3e8ea71ea93489f98fb28039043c.mp4",
       "category": "Live",
       "title": "Calming Forest Rain Sounds",
       "downloadCount": 0,
-      "dominantColor": "mixed",
+      "dominantColor": "black",
       "type": "video",
       "enabled": true
     },
@@ -438,99 +299,59 @@
       "category": "Live",
       "title": "Peaceful Ocean Waves Flow",
       "downloadCount": 0,
-      "dominantColor": "mixed",
+      "dominantColor": "orange",
       "type": "video",
       "enabled": true
     },
     {
       "id": "v003",
-      "url": "https://v1.pinimg.com/videos/iht/hevcMp4V3/8f/87/cc/8f87cc05900c56be30e6f3ef3acfe0f6_720w.mp4",
+      "url": "https://v1.pinimg.com/videos/iht/expMp4/f1/26/3b/f1263b0c3d93263f65b2636c890cdd2c_720w.mp4",
       "category": "Live",
-      "title": "Golden Sunset Timelapse",
+      "title": "Relaxing Mountain Breeze",
       "downloadCount": 0,
-      "dominantColor": "mixed",
+      "dominantColor": "green",
       "type": "video",
       "enabled": true
     },
     {
       "id": "v004",
-      "url": "https://v1.pinimg.com/videos/iht/expMp4/f1/26/3b/f1263b0c3d93263f65b2636c890cdd2c_720w.mp4",
+      "url": "https://v1.pinimg.com/videos/iht/720p/8b/a1/26/8ba126ea39b916a3c54fb622f36ed375.mp4",
       "category": "Live",
-      "title": "Relaxing Mountain Breeze",
+      "title": "Waterfall Nature Ambience",
       "downloadCount": 0,
-      "dominantColor": "mixed",
+      "dominantColor": "green",
       "type": "video",
       "enabled": true
     },
     {
       "id": "v005",
-      "url": "https://v1.pinimg.com/videos/iht/720p/8b/a1/26/8ba126ea39b916a3c54fb622f36ed375.mp4",
+      "url": "https://v1.pinimg.com/videos/iht/expMp4/18/6d/d7/186dd71c60a33fbddb5a9b2e1f8345c5_720w.mp4",
       "category": "Live",
-      "title": "Waterfall Nature Ambience",
+      "title": "Birds Singing in Forest",
       "downloadCount": 0,
-      "dominantColor": "mixed",
+      "dominantColor": "green",
       "type": "video",
       "enabled": true
     },
     {
       "id": "v006",
-      "url": "https://v1.pinimg.com/videos/iht/expMp4/18/6d/d7/186dd71c60a33fbddb5a9b2e1f8345c5_720w.mp4",
+      "url": "https://v1.pinimg.com/videos/iht/expMp4/f9/cb/09/f9cb0975e880b538d0f4f698ee5e2f59_720w.mp4",
       "category": "Live",
-      "title": "Birds Singing in Forest",
+      "title": "Clouds Moving Over Hills",
       "downloadCount": 0,
-      "dominantColor": "mixed",
+      "dominantColor": "black",
       "type": "video",
       "enabled": true
     },
     {
       "id": "v007",
-      "url": "https://v1.pinimg.com/videos/iht/expMp4/f9/cb/09/f9cb0975e880b538d0f4f698ee5e2f59_720w.mp4",
-      "category": "Live",
-      "title": "Clouds Moving Over Hills",
-      "downloadCount": 0,
-      "dominantColor": "mixed",
-      "type": "video",
-      "enabled": true
-    },
-    {
-      "id": "v008",
       "url": "https://v1.pinimg.com/videos/iht/720p/dc/e2/31/dce231f37d743cbc4cb1e30212e29c05.mp4",
       "category": "Live",
       "title": "Serene River Flow Motion",
       "downloadCount": 0,
-      "dominantColor": "mixed",
+      "dominantColor": "green",
       "type": "video",
       "enabled": true
     },
-    {
-      "id": "v009",
-      "url": "https://v1.pinimg.com/videos/iht/expMp4/56/50/53/565053137d205657236eda88e38aefe4_720w.mp4",
-      "category": "Live",
-      "title": "Peaceful Mosque Night View",
-      "downloadCount": 0,
-      "dominantColor": "mixed",
-      "type": "video",
-      "enabled": true
-    },
-    {
-      "id": "v010",
-      "url": "https://v1.pinimg.com/videos/iht/expMp4/f2/a1/8a/f2a18a4f5d7db8ffe4ef8e4ba6fb15fa_720w.mp4",
-      "category": "Live",
-      "title": "Calming Islamic Calligraphy Motion",
-      "downloadCount": 0,
-      "dominantColor": "mixed",
-      "type": "video",
-      "enabled": true
-    },
-    {
-      "id": "v011",
-      "url": "https://v1.pinimg.com/videos/iht/expMp4/64/6a/90/646a90b436d5ed92e8c0553fdeb12da3_720w.mp4",
-      "category": "Live",
-      "title": "Serene Sunset Over Holy City",
-      "downloadCount": 0,
-      "dominantColor": "mixed",
-      "type": "video",
-      "enabled": true
-    }
   ]
 }
