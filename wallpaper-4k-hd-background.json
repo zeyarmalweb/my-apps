@@ -355,26 +355,6 @@
     },
     {
       "id": "36",
-      "url": "https://images.unsplash.com/photo-1542890886-40c9094e352a?ixlib=rb-4.1.0&q=85&fm=jpg",
-      "category": "Live",
-      "title": "Peaceful Mosque Night View",
-      "downloadCount": 0,
-      "dominantColor": "mixed",
-      "type": "video",
-      "enabled": true
-    },
-    {
-      "id": "37",
-      "url": "https://v1.pinimg.com/videos/iht/expMp4/f2/a1/8a/f2a18a4f5d7db8ffe4ef8e4ba6fb15fa_720w.mp4",
-      "category": "Live",
-      "title": "Calming Islamic Calligraphy Motion",
-      "downloadCount": 0,
-      "dominantColor": "mixed",
-      "type": "video",
-      "enabled": true
-    },
-    {
-      "id": "38",
       "url": "https://v1.pinimg.com/videos/iht/expMp4/64/6a/90/646a90b436d5ed92e8c0553fdeb12da3_720w.mp4",
       "category": "animal",
       "title": "Jungle animal",
