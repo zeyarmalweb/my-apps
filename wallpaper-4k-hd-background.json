@@ -1,33 +1,13 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-10",
+  "updatedAt": "2026-09-07",
   "wallpapers": [
     {
       "id": "001",
-      "url": "https://wallpapershome.com/images/wallpapers/scenic-vista-wallpaper-3840x2160-mountain-range-aerial-view-29927.jpg",
+      "url": "https://images.unsplash.com/photo-1542676032-e505f4fe02a9?ixlib=rb-4.1.0&q=85&fm=jpg",
       "category": "Nature",
-      "title": "Serene Mountain Sunrise",
+      "title": "Green Mountain",
       "downloadCount": 13043,
-      "dominantColor": "green",
-      "type": "image",
-      "enabled": true
-    },
-    {
-      "id": "002",
-      "url": "https://wallpapershome.com/images/wallpapers/lonely-highway-wallpaper-3840x2160-moody-abandoned-road-29926.jpg",
-      "category": "Nature",
-      "title": "Golden Sunset Over the Ocean",
-      "downloadCount": 13300,
-      "dominantColor": "black",
-      "type": "image",
-      "enabled": true
-    },
-    {
-      "id": "003",
-      "url": "https://wallpapershome.com/images/wallpapers/expanse-wallpaper-3840x2160-open-fields-mountain-range-29928.jpg",
-      "category": "Nature",
-      "title": "Mystic Forest Path",
-      "downloadCount": 13557,
       "dominantColor": "green",
       "type": "image",
       "enabled": true
