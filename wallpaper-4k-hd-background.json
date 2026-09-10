@@ -355,7 +355,7 @@
     },
     {
       "id": "36",
-      "url": "https://v1.pinimg.com/videos/iht/expMp4/56/50/53/565053137d205657236eda88e38aefe4_720w.mp4",
+      "url": "https://images.unsplash.com/photo-1542890886-40c9094e352a?ixlib=rb-4.1.0&q=85&fm=jpg",
       "category": "Live",
       "title": "Peaceful Mosque Night View",
       "downloadCount": 0,
@@ -376,11 +376,11 @@
     {
       "id": "38",
       "url": "https://v1.pinimg.com/videos/iht/expMp4/64/6a/90/646a90b436d5ed92e8c0553fdeb12da3_720w.mp4",
-      "category": "Live",
-      "title": "Serene Sunset Over Holy City",
+      "category": "animal",
+      "title": "Jungle animal",
       "downloadCount": 0,
-      "dominantColor": "mixed",
-      "type": "video",
+      "dominantColor": "black",
+      "type": "image",
       "enabled": true
     }
   ]
