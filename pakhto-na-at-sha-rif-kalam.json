@@ -9,6 +9,91 @@
     "hero_image": ""
   },
   "categories": [
+     {
+      "id": "new-naats",
+      "title_ps": "2026 نعتونه",
+      "title_en": "2026 Naats",
+      "image": "https://i.pinimg.com/1200x/dc/8e/77/dc8e778375cb553975b17355b8f6fc99.jpg",
+      "tracks": [
+         {
+          "id": "naats-2026-1",
+          "title_ps": "پښتو 2026 نعتونه",
+          "title_en": "Pashto 2026 Naats",
+          "audio": "https://ia600605.us.archive.org/2/items/pashto-2026-naat-7/pashto%202026%20naat%20-%203.mp3",
+          "image": "https://i.pinimg.com/1200x/dc/8e/77/dc8e778375cb553975b17355b8f6fc99.jpg"
+        },
+        {
+          "id": "naats-2026-2",
+          "title_ps": "پښتو 2026 نعتونه",
+          "title_en": "Pashto 2026 Naats",
+          "audio": "https://ia600102.us.archive.org/6/items/new-pashto-mast-nazam-song/%D9%86%D9%88%D9%8A%20%D8%B2%D8%A8%D8%B1%D8%AF%D8%B3%D8%AA%D9%87%20%D8%AA%D8%B1%D8%A7%D9%86%D9%87%20%F0%9F%A5%B0%20%D9%80%20%D8%AE%D9%88%D8%B1%D9%8A%20%D8%B3%D8%AA%D8%A7%20%DA%86%D8%A7%D8%AF%D8%B1%D9%BE%D9%88%D8%B4%DB%8C%20%D8%AF%D9%87%20%E2%99%A5%EF%B8%8F%20%D9%80%20%D8%A7%D9%93%D9%88%D8%A7%D8%B2%20%D9%85%D8%AD%D8%A8%20%D8%A7%D9%84%D9%84%D9%87%20%D9%85%D8%AD%D8%A8%D8%AA%20%D9%80%20New%20Pashto%20Mast%20Nazam%20Song.mp3",
+          "image": "https://i.pinimg.com/736x/66/6b/a5/666ba51c7e7a30c1f53f0fc1b8df4145.jpg"
+        },
+        {
+          "id": "naats-2026-3",
+          "title_ps": "پښتو 2026 نعتونه",
+          "title_en": "Pashto 2026 Naats",
+          "audio": "https://ia600502.us.archive.org/27/items/pashto-new-naat/Pashto%20New%20Naat.mp3",
+          "image": "https://i.pinimg.com/736x/91/ba/fb/91bafb287d40f5b7b4c9fb5d2b067b08.jpg"
+        },
+        {
+          "id": "naats-2026-4",
+          "title_ps": "پښتو 2026 نعتونه",
+          "title_en": "Pashto 2026 Naats",
+          "audio": "https://archive.org/download/pashto-2026-naat-7/pashto%202026%20naat%20-%204.mp3",
+          "image": "https://i.pinimg.com/736x/12/02/86/1202869ec732430a2122b068d8eb795b.jpg"
+        },
+        {
+          "id": "naats-2026-5",
+          "title_ps": "پښتو 2026 نعتونه",
+          "title_en": "Pashto 2026 Naats",
+          "audio": "https://archive.org/download/pashto-2026-naat-7/pashto%202026%20naat%20-%205.mp3",
+          "image": "https://i.pinimg.com/736x/27/16/cf/2716cf7ddfebf3ff34d1227a55e9fed8.jpg"
+        },
+        {
+          "id": "naats-2026-6",
+          "title_ps": "پښتو 2026 نعتونه",
+          "title_en": "Pashto 2026 Naats",
+          "audio": "https://archive.org/download/pashto-2026-naat-7/pashto%202026%20naat%20-%206.mp3",
+          "image": "https://i.pinimg.com/736x/2b/5f/5c/2b5f5cc75b1f257de8ecf91371c3f4d7.jpg"
+        },
+        {
+          "id": "naats-2026-7",
+          "title_ps": "پښتو 2026 نعتونه",
+          "title_en": "Pashto 2026 Naats",
+          "audio": "https://archive.org/download/pashto-2026-naat-7/pashto%202026%20naat%20-%207.mp3",
+          "image": "https://i.pinimg.com/1200x/f2/34/ac/f234acca0c53c62c837d21c07cc631fd.jpg"
+        },
+        {
+          "id": "naats-2026-8",
+          "title_ps": "پښتو 2026 نعتونه",
+          "title_en": "Pashto 2026 Naats",
+          "audio": "https://archive.org/download/pashto-2026-naat-7/pashto%202026%20naat%20-%208.mp3",
+          "image": "https://i.pinimg.com/736x/25/ea/72/25ea72f31810d5c69135c6c1340c936d.jpg"
+        },
+        {
+          "id": "naats-2026-9",
+          "title_ps": "پښتو 2026 نعتونه",
+          "title_en": "Pashto 2026 Naats",
+          "audio": "https://archive.org/download/pashto-2026-naat-7/pashto%202026%20naat%20-%209.mp3",
+          "image": "https://i.pinimg.com/736x/4d/d0/5d/4dd05d8803bfbb520bd9b46301df20d5.jpg"
+        },
+        {
+          "id": "naats-2026-10",
+          "title_ps": "پښتو 2026 نعتونه",
+          "title_en": "Pashto 2026 Naats",
+          "audio": "https://archive.org/download/pashto-2026-naat-7/pashto%202026%20naat%20-%2010.mp3",
+          "image": "https://i.pinimg.com/736x/c3/4d/0a/c34d0ac70a07621d7b3e9af02166af9a.jpg"
+        },
+        {
+          "id": "naats-2026-11",
+          "title_ps": "پښتو 2026 نعتونه",
+          "title_en": "Pashto 2026 Naats",
+          "audio": "https://archive.org/download/pashto-2026-naat-7/pashto%202026%20naat%20-%2011.mp3",
+          "image": "https://i.pinimg.com/1200x/f5/a7/a1/f5a7a1406d0e37f4e711b08269f74159.jpg"
+        }
+      ]
+   },
     {
       "id": "new-naats",
       "title_ps": "نوی نعتونه",
