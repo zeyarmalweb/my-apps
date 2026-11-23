@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "bannerEnabled": false,
+  "bannerEnabled": true,
   "showcaseEnabled": true,
   "rotationSeconds": 15,
   "dismissHours": 24,
@@ -104,7 +104,7 @@
       "ctaText": "Open store",
       "priority": 75,
       "linkMode": "external",
-      "videoOpenMode": "inApp",
+      "videoOpenMode": "external",
       "linkUrl": ""
     },
     {
@@ -124,5 +124,46 @@
       "videoOpenMode": "external",
       "linkUrl": ""
     }
-  ]
+  ],
+  "specialMarketing": {
+    "enabled": true,
+    "title": "Special App Marketing",
+    "description": "Featured projects, product updates and optional video previews.",
+    "campaigns": [
+      {
+        "id": "ubms_featured",
+        "enabled": true,
+        "title": "UBMS System · Featured Solution",
+        "description": "Explore the UBMS system, see product highlights and watch a preview. Replace the example links with your official UBMS destination before release.",
+        "format": "image",
+        "placement": "interstitial",
+        "imageUrl": "https://picsum.photos/seed/ubms-feature/1200/800",
+        "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+        "androidUrl": "",
+        "iosUrl": "",
+        "linkUrl": "https://example.com/ubms",
+        "linkMode": "inApp",
+        "videoOpenMode": "external",
+        "ctaText": "Explore UBMS",
+        "priority": 100
+      },
+      {
+        "id": "ubms_video_preview",
+        "enabled": true,
+        "title": "UBMS · Video Presentation",
+        "description": "A sample video preview. Change the MP4 URL to your own product walkthrough.",
+        "format": "video",
+        "placement": "interstitial",
+        "imageUrl": "https://picsum.photos/seed/ubms-video/1200/800",
+        "videoUrl": "https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4",
+        "androidUrl": "",
+        "iosUrl": "",
+        "linkUrl": "https://example.com/ubms",
+        "linkMode": "inApp",
+        "videoOpenMode": "external",
+        "ctaText": "Learn More",
+        "priority": 90
+      }
+    ]
+  }
 }
