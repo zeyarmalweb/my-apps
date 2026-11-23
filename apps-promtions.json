@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "bannerEnabled": true,
+  "bannerEnabled": false,
   "showcaseEnabled": true,
   "rotationSeconds": 15,
   "dismissHours": 24,
@@ -17,7 +17,10 @@
       "androidUrl": "https://play.google.com/store/apps/dev?id=6253129961567685727",
       "iosUrl": "https://apps.apple.com/us/developer/amir-mohammad-ahangar/id1728572779",
       "ctaText": "See our apps",
-      "priority": 100
+      "priority": 100,
+      "linkMode": "external",
+      "videoOpenMode": "external",
+      "linkUrl": ""
     },
     {
       "id": "banner_text",
@@ -31,7 +34,10 @@
       "androidUrl": "https://play.google.com/store/apps/dev?id=6253129961567685727",
       "iosUrl": "https://apps.apple.com/us/developer/amir-mohammad-ahangar/id1728572779",
       "ctaText": "Browse on store",
-      "priority": 90
+      "priority": 90,
+      "linkMode": "external",
+      "videoOpenMode": "external",
+      "linkUrl": ""
     },
     {
       "id": "banner_link",
@@ -45,7 +51,10 @@
       "androidUrl": "https://play.google.com/store/apps/dev?id=6253129961567685727",
       "iosUrl": "https://apps.apple.com/us/developer/amir-mohammad-ahangar/id1728572779",
       "ctaText": "Open store",
-      "priority": 80
+      "priority": 80,
+      "linkMode": "external",
+      "videoOpenMode": "external",
+      "linkUrl": ""
     },
     {
       "id": "interstitial_image",
@@ -59,7 +68,10 @@
       "androidUrl": "https://play.google.com/store/apps/dev?id=6253129961567685727",
       "iosUrl": "https://apps.apple.com/us/developer/amir-mohammad-ahangar/id1728572779",
       "ctaText": "View collection",
-      "priority": 95
+      "priority": 95,
+      "linkMode": "external",
+      "videoOpenMode": "external",
+      "linkUrl": ""
     },
     {
       "id": "interstitial_video",
@@ -73,7 +85,10 @@
       "androidUrl": "https://play.google.com/store/apps/dev?id=6253129961567685727",
       "iosUrl": "https://apps.apple.com/us/developer/amir-mohammad-ahangar/id1728572779",
       "ctaText": "Discover our apps",
-      "priority": 85
+      "priority": 85,
+      "linkMode": "external",
+      "videoOpenMode": "external",
+      "linkUrl": ""
     },
     {
       "id": "interstitial_youtube",
@@ -87,7 +102,10 @@
       "androidUrl": "https://play.google.com/store/apps/dev?id=6253129961567685727",
       "iosUrl": "https://apps.apple.com/us/developer/amir-mohammad-ahangar/id1728572779",
       "ctaText": "Open store",
-      "priority": 75
+      "priority": 75,
+      "linkMode": "external",
+      "videoOpenMode": "inApp",
+      "linkUrl": ""
     },
     {
       "id": "disabled_test",
@@ -101,7 +119,10 @@
       "androidUrl": "https://play.google.com/store/apps/dev?id=6253129961567685727",
       "iosUrl": "https://apps.apple.com/us/developer/amir-mohammad-ahangar/id1728572779",
       "ctaText": "Explore apps",
-      "priority": 50
+      "priority": 50,
+      "linkMode": "external",
+      "videoOpenMode": "external",
+      "linkUrl": ""
     }
   ]
 }
