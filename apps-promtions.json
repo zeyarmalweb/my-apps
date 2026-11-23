@@ -1,1 +1,70 @@
 
+{
+  "enabled": true,
+  "bannerEnabled": true,
+  "showcaseEnabled": true,
+  "rotationSeconds": 12,
+  "dismissHours": 1,
+  "campaigns": [
+    {
+      "id": "test_text",
+      "enabled": true,
+      "title": "Explore Our App Collection",
+      "description": "TEXT TEST: Discover more apps from our developer collection.",
+      "format": "text",
+      "imageUrl": "",
+      "videoUrl": "",
+      "androidUrl": "https://play.google.com/store/apps/dev?id=6253129961567685727",
+      "iosUrl": "https://apps.apple.com/us/developer/amir-mohammad-ahangar/id1728572779",
+      "priority": 100
+    },
+    {
+      "id": "test_image",
+      "enabled": true,
+      "title": "Featured App Artwork",
+      "description": "IMAGE TEST: This promotion loads a sample image from the internet.",
+      "format": "image",
+      "imageUrl": "https://picsum.photos/seed/marketing-image-demo/900/600",
+      "videoUrl": "",
+      "androidUrl": "https://play.google.com/store/apps/dev?id=6253129961567685727",
+      "iosUrl": "https://apps.apple.com/us/developer/amir-mohammad-ahangar/id1728572779",
+      "priority": 90
+    },
+    {
+      "id": "test_video",
+      "enabled": true,
+      "title": "Watch a Video Preview",
+      "description": "VIDEO TEST: Tap Watch preview in the showcase to open the sample YouTube video.",
+      "format": "video",
+      "imageUrl": "https://picsum.photos/seed/marketing-video-demo/900/600",
+      "videoUrl": "https://www.youtube.com/watch?v=TW4uJT3hESM",
+      "androidUrl": "https://play.google.com/store/apps/dev?id=6253129961567685727",
+      "iosUrl": "https://apps.apple.com/us/developer/amir-mohammad-ahangar/id1728572779",
+      "priority": 80
+    },
+    {
+      "id": "test_store_link",
+      "enabled": true,
+      "title": "Browse More Apps",
+      "description": "LINK TEST: Tap View app or View in store to open our developer page.",
+      "format": "text",
+      "imageUrl": "https://picsum.photos/seed/marketing-store-demo/900/600",
+      "videoUrl": "",
+      "androidUrl": "https://play.google.com/store/apps/dev?id=6253129961567685727",
+      "iosUrl": "https://apps.apple.com/us/developer/amir-mohammad-ahangar/id1728572779",
+      "priority": 70
+    },
+    {
+      "id": "test_disabled",
+      "enabled": false,
+      "title": "Disabled Campaign",
+      "description": "This campaign should never appear because enabled is false.",
+      "format": "image",
+      "imageUrl": "https://picsum.photos/seed/disabled-test/900/600",
+      "videoUrl": "",
+      "androidUrl": "https://play.google.com/store/apps/dev?id=6253129961567685727",
+      "iosUrl": "https://apps.apple.com/us/developer/amir-mohammad-ahangar/id1728572779",
+      "priority": 10
+    }
+  ]
+}
