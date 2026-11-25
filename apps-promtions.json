@@ -18,11 +18,14 @@
       "videoUrl": "",
       "androidUrl": "https://play.google.com/store/apps/details?id=com.shiragha.kankor.exam",
       "iosUrl": "https://apps.apple.com/us/app/%D8%A7%D9%85%D8%AA%D8%AD%D8%A7%D9%86-%DA%A9%D8%A7%D9%86%DA%A9%D9%88%D8%B1-%D8%A7%D9%81%D8%BA%D8%A7%D9%86%D8%B3%D8%AA%D8%A7%D9%86/id6761429194",
+     "windowsUrl": "https://apps.microsoft.com/detail/9p15s8pwmq8c?hl=en-US&gl=QA",
+      "macosUrl": "https://support.apple.com/en-afri/guide/mac-help/mchlp2963/mac",
+      "websiteUrl": "https://www.godaddy.com/en-ph",
       "ctaText": "اپلیکیشن موبایل - کانکور",
       "priority": 100,
       "linkMode": "external",
       "videoOpenMode": "external",
-      "linkUrl": ""
+      "linkUrl": "https://www.youtube.com/watch?v=O0iVxc3IE54&list=RDO0iVxc3IE54&start_radio=1"
     },
     {
       "id": "banner_text",
