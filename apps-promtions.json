@@ -7,11 +7,13 @@
   "playerExitPromotionEnabled": true,
   "rotationSeconds": 10,
   "dismissMinutes": 1,
+  "textDirection": "ltr",
   "interstitialCooldownMinutes": 1,
   "campaigns": [
     {
       "id": "banner_image",
       "enabled": true,
+      "textDirection": "rtl",
       "title": "امتحان کانکور افغانستان",
       "description": "د افغانستان کانکور ازموینې یو تعلیمي او خورا ګټور اپلېکېشن دی، چې د ټولو هغو افغان زده‌کوونکو لپاره جوړ شوی چې غواړي د کانکور ازموینې ته چمتووالی ونیسي او د خپلې خوښې پوهنتون ته لار ومومي. دا اپلېکېشن هڅه کوي چې د کانکور ټولې اړینې درسي سرچینې او تعلیمي مواد په یوه ساده او اسانه لاسرسي وړ ځای کې راټول کړي، ترڅو زده‌کوونکي وکولای شي په اسانۍ سره زده‌کړه او تمرین وکړي.",
       "format": "image",
