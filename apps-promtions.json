@@ -7,7 +7,7 @@
   "playerExitPromotionEnabled": true,
   "rotationSeconds": 10,
   "dismissMinutes": 1,
-  "interstitialCooldownMinutes": 1
+  "interstitialCooldownMinutes": 1,
   "campaigns": [
     {
       "id": "banner_image",
