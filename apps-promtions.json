@@ -2,9 +2,10 @@
   "enabled": true,
   "bannerEnabled": true,
   "showcaseEnabled": true,
-  "playerExitPromotionEnabled": true,
-  "rotationSeconds": 15,
+  "rotationSeconds": 2,
   "dismissMinutes": 1,
+  "playerExitPromotionEnabled": true,
+  "interstitialCooldownMinutes": 1,
   "campaigns": [
     {
       "id": "banner_image",
