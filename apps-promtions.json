@@ -1,13 +1,13 @@
 {
   "enabled": true,
-  "bannerEnabled": true,
+  "bannerEnabled": false,
   "interstitialEnabled": true,
   "rewardedEnabled": true,
   "showcaseEnabled": true,
   "playerExitPromotionEnabled": true,
   "rotationSeconds": 10,
   "dismissMinutes": 1,
-  "textDirection": "ltr",
+  "textDirection": "auto",
   "interstitialCooldownMinutes": 1,
   "campaigns": [
     {
