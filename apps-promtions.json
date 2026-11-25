@@ -1,11 +1,13 @@
 {
   "enabled": true,
   "bannerEnabled": true,
+  "interstitialEnabled": true,
+  "rewardedEnabled": true,
   "showcaseEnabled": true,
-  "rotationSeconds": 7,
-  "dismissMinutes": 1,
   "playerExitPromotionEnabled": true,
-  "interstitialCooldownMinutes": 1,
+  "rotationSeconds": 10,
+  "dismissMinutes": 1,
+  "interstitialCooldownMinutes": 1
   "campaigns": [
     {
       "id": "banner_image",
