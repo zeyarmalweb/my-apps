@@ -48,45 +48,29 @@
       "androidUrl": "https://play.google.com/store/apps/details?id=com.digitaltsbeeh.tasbeehcounter.zikrazkar",
       "iosUrl": "https://apps.apple.com/us/app/tasbeeh-counter-dhikr-%D8%B9%D8%AF%D8%A7%D8%AF/id6762642026",
       "ctaText": "Install Now",
-      "priority": 50,
+      "priority": 80,
       "linkMode": "external",
       "videoOpenMode": "external",
       "linkUrl": ""
     },
     {
-        "id": "quran-offleathured-ads",
+        "id": "mp4-to-mp3-ads",
         "enabled": true,
-        "title": "Quran Offlineddd - قرآن بدون ddانترنت",
-        "description": "d Discover the beauty of the Holy Quran! Read, listen to all 114 Surahs with MP3 audio, explore Quran Tafsir, and enjoy a peaceful reading experience with Night Mode anytime, anywhere. Keep the words of Allah close to your heart. Download now and make the Holy Quran part of your everyday life!",        
-        "format": "video",
-        "placement": "both",
-        "imageUrl": "https://play-lh.googleusercontent.com/ldOd8U5Nf9j8eS2xYD-f1gFwF4Q3irYt5lEhCQ9POgIeKpstiVNWRyh598hKmLZf5WJkeOm25qNfTbQo6BKG=w480-h960-rw",
+        "title": "Video to Audio - MP3 Maker",
+        "description": "Turn your videos into high-quality MP3 audio instantly! Fast, easy, and powerful video-to-audio conversion—all in one app. Download now and enjoy!",        
+        "format": "image",
+        "placement": "appOpen",
+        "imageUrl": "https://play-lh.googleusercontent.com/eow0MMb-2B8LSFz7mgvsKYTY73aiysk4AgJTzs1PRDZdhg44jLue21v4th3sGfvnvuDSI2Pr7Cb6zrDEnoybrA=w480-h960-rw",
         "videoUrl": "",
-        "androidUrl": "https://play.google.com/store/apps/details?id=com.statusdownloader.statussaver.videoimagesaver.downloadstatus",
+        "androidUrl": "https://play.google.com/store/apps/details?id=com.audixa.videoaudioextractor",
         "iosUrl": "https://apps.apple.com/us/app/quran-offline-%D9%82%D8%B1%D8%A2%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%A7%D9%86%D8%AA%D8%B1%D9%86%D8%AA/id6758884104",
         "linkUrl": "",
         "linkMode": "inApp",
         "videoOpenMode": "external",
         "ctaText": "Install Now",
-        "priority": 100
-      },
-    {
-        "id": "quran-offline-feathured-ads1",
-        "enabled": true,
-        "title": "Quran Offline - قرآن بدون انترنت",
-        "description": "Discover the beauty of the Holy Quran! Read, listen to all 114 Surahs with MP3 audio, explore Quran Tafsir, and enjoy a peaceful reading experience with Night Mode anytime, anywhere. Keep the words of Allah close to your heart. Download now and make the Holy Quran part of your everyday life!",        
-        "format": "video",
-        "placement": "both",
-        "imageUrl": "https://play-lh.googleusercontent.com/8BldK1ipbfvV5bH_UxLGt-2V9w6HwXuG-RVkbMoZ-hPtMOIoYAoWytdSIxXjOMOBXB2Rd6Tt1zOPy_XY6jUPuao=w480-h960-rw",
-        "videoUrl": "",
-        "androidUrl": "https://play.google.com/store/apps/details?id=com.music.downloader.songs.player",
-        "iosUrl": "https://apps.apple.com/us/app/quran-offline-%D9%82%D8%B1%D8%A2%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%A7%D9%86%D8%AA%D8%B1%D9%86%D8%AA/id6758884104",
-        "linkUrl": "",
-        "linkMode": "inApp",
-        "videoOpenMode": "external",
-        "ctaText": "Install Now",
-        "priority": 100
+        "priority": 90
       }
+  
   ],
   "specialMarketing": {
     "enabled": true,
@@ -98,8 +82,8 @@
         "enabled": true,
         "title": "Quran Offline - قرآن بدون انترنت",
         "description": "Discover the beauty of the Holy Quran! Read, listen to all 114 Surahs with MP3 audio, explore Quran Tafsir, and enjoy a peaceful reading experience with Night Mode anytime, anywhere. Keep the words of Allah close to your heart. Download now and make the Holy Quran part of your everyday life!",        
-        "format": "video",
-        "placement": "both",
+        "format": "image",
+        "placement": "interstitial",
         "imageUrl": "https://play-lh.googleusercontent.com/8BldK1ipbfvV5bH_UxLGt-2V9w6HwXuG-RVkbMoZ-hPtMOIoYAoWytdSIxXjOMOBXB2Rd6Tt1zOPy_XY6jUPuao=w480-h960-rw",
         "videoUrl": "",
         "androidUrl": "https://play.google.com/store/apps/details?id=com.music.downloader.songs.player",
@@ -108,7 +92,7 @@
         "linkMode": "inApp",
         "videoOpenMode": "external",
         "ctaText": "Install Now",
-        "priority": 100
+        "priority": 70
       }
     ]
   }
