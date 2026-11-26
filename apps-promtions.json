@@ -1,4 +1,4 @@
-{
+  {
   "enabled": true,
   "admobEnabled": false,
   "bannerEnabled": true,
@@ -11,10 +11,10 @@
   "dismissMinutes": 1,
   "textDirection": "auto",
   "interstitialCooldownMinutes": 3,
-  "appOpenCooldownMinutes": 2,
-  "appOpenOnColdStart": false,
-  "appOpenOnResume": false,
-  "appOpenMinimumBackgroundSeconds": 30,
+  "appOpenCooldownMinutes": 3,
+  "appOpenOnColdStart": true,
+  "appOpenOnResume": true,
+  "appOpenMinimumBackgroundSeconds": 60,
   "appOpenSkipFirstLaunch": false,
   "campaigns": [
     {
