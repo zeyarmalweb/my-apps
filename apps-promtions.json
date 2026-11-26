@@ -14,8 +14,8 @@
   "appOpenCooldownMinutes": 2,
   "appOpenOnColdStart": true,
   "appOpenOnResume": true,
-  "appOpenMinimumBackgroundSeconds": 60,
-  "appOpenSkipFirstLaunch": true,
+  "appOpenMinimumBackgroundSeconds": 10,
+  "appOpenSkipFirstLaunch": false,
   "campaigns": [
     {
       "id": "app_open_ubms",
@@ -28,9 +28,7 @@
       "imageUrl": "https://play-lh.googleusercontent.com/GtKFl3vJWFZ_EbBrOhFjHSMlawFX5Vo4p1vFqH69HwCWFYeg7_okE7Ez2PUwPENpyaI0Taubat8aXEVt78gPTw=w480-h960-rw",
       "videoUrl": "",
       "androidUrl": "https://play.google.com/store/apps/details?id=com.musicplayer.mp3player.songsplayer",
-      "iosUrl": "",
-      "windowsUrl": "https://www.apple.com/",
-      "macosUrl": "https://www.google.com/",
+      "iosUrl": "https://apps.apple.com/us/app/mp3-player-offline-music/id6813101502",
       "linkUrl": "https://play.google.com/store/apps/details?id=com.englishttopashto.easyenglishlearning",
       "linkMode": "external",
       "videoOpenMode": "external",
