@@ -13,7 +13,7 @@
   "interstitialCooldownMinutes": 3,
   "appOpenCooldownMinutes": 2,
   "appOpenOnColdStart": false,
-  "appOpenOnResume": true,
+  "appOpenOnResume": false,
   "appOpenMinimumBackgroundSeconds": 30,
   "appOpenSkipFirstLaunch": false,
   "campaigns": [
