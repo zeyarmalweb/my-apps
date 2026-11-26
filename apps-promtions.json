@@ -12,7 +12,7 @@
   "dismissMinutes": 3,
   "textDirection": "auto",
   "interstitialCooldownMinutes": 5,
-  "appOpenCooldownMinutes": 2,
+  "appOpenCooldownMinutes": 30,
   "appOpenOnColdStart": true,
   "appOpenOnResume": true,
   "appOpenMinimumBackgroundSeconds": 60,
