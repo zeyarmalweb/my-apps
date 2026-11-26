@@ -85,7 +85,7 @@
         "linkMode": "inApp",
         "videoOpenMode": "external",
         "ctaText": "Install Now",
-        "priority": 70
+        "priority": 95
       }
   
   ],
