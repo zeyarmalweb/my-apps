@@ -8,15 +8,15 @@
   "appOpenEnabled": true,
   "showcaseEnabled": true,
   "playerExitPromotionEnabled": true,
-  "rotationSeconds": 6,
-  "dismissMinutes": 1,
+  "rotationSeconds": 15,
+  "dismissMinutes": 3,
   "textDirection": "auto",
-  "interstitialCooldownMinutes": 3,
-  "appOpenCooldownMinutes": 3,
+  "interstitialCooldownMinutes": 5,
+  "appOpenCooldownMinutes": 40,
   "appOpenOnColdStart": true,
   "appOpenOnResume": true,
   "appOpenMinimumBackgroundSeconds": 60,
-  "appOpenSkipFirstLaunch": false,
+  "appOpenSkipFirstLaunch": true,
   "campaigns": [
    
     {
@@ -53,7 +53,24 @@
       "linkMode": "external",
       "videoOpenMode": "external",
       "linkUrl": ""
-    }
+    },
+    {
+        "id": "quran-offline-feathured-ads",
+        "enabled": true,
+        "title": "Quran Offline - قرآن بدون انترنت",
+        "description": "Discover the beauty of the Holy Quran! Read, listen to all 114 Surahs with MP3 audio, explore Quran Tafsir, and enjoy a peaceful reading experience with Night Mode anytime, anywhere. Keep the words of Allah close to your heart. Download now and make the Holy Quran part of your everyday life!",        
+        "format": "video",
+        "placement": "both",
+        "imageUrl": "https://play-lh.googleusercontent.com/8BldK1ipbfvV5bH_UxLGt-2V9w6HwXuG-RVkbMoZ-hPtMOIoYAoWytdSIxXjOMOBXB2Rd6Tt1zOPy_XY6jUPuao=w480-h960-rw",
+        "videoUrl": "",
+        "androidUrl": "https://play.google.com/store/apps/details?id=com.music.downloader.songs.player",
+        "iosUrl": "https://apps.apple.com/us/app/quran-offline-%D9%82%D8%B1%D8%A2%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D8%A7%D9%86%D8%AA%D8%B1%D9%86%D8%AA/id6758884104",
+        "linkUrl": "",
+        "linkMode": "inApp",
+        "videoOpenMode": "external",
+        "ctaText": "Install Now",
+        "priority": 100
+      }
   ],
   "specialMarketing": {
     "enabled": true,
