@@ -1,6 +1,7 @@
   {
   "enabled": true,
   "admobEnabled": true,
+  "admobAppOpenEnabled": true,
   "bannerEnabled": false,
   "interstitialEnabled": false,
   "rewardedEnabled": false,
