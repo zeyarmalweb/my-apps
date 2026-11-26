@@ -20,7 +20,7 @@
   "campaigns": [
    
     {
-      "id": "banner_image",
+      "id": "kankor-ads",
       "enabled": true,
       "textDirection": "rtl",
       "title": "امتحان کانکور افغانستان",
@@ -38,8 +38,8 @@
       "linkUrl": ""
     },
     {
-      "id": "disabled_test",
-      "enabled": false,
+      "id": "tasbee-counter-ads",
+      "enabled": true,
       "title": "Tasbeeh Counter Dhikr عداد",
       "description": "Make every moment meaningful with Tasbeeh Counter Dhikr! Enjoy 3,000+ Dhikrs, a smart digital Tasbeeh, personalized counters, favorites, saved history, 40+ beautiful colors, and 25+ languages—all in one easy-to-use app; install now and keep the remembrance of Allah with you anytime, anywhere!",
       "format": "image",
@@ -61,7 +61,7 @@
     "description": "Explore our featured apps, exclusive promotions, latest updates, and premium video showcases.",
     "campaigns": [
       {
-        "id": "ubms_featured",
+        "id": "quran-offline-feathured-ads",
         "enabled": true,
         "title": "Quran Offline - قرآن بدون انترنت",
         "description": "Discover the beauty of the Holy Quran! Read, listen to all 114 Surahs with MP3 audio, explore Quran Tafsir, and enjoy a peaceful reading experience with Night Mode anytime, anywhere. Keep the words of Allah close to your heart. Download now and make the Holy Quran part of your everyday life!",        
