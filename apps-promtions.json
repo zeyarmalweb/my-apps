@@ -58,13 +58,14 @@
   "specialMarketing": {
     "enabled": true,
     "title": "Special App Marketing",
-    "description": "Explore our featured apps, exclusive promotions, latest updates, and premium video showcases."
+    "description": "Explore our featured apps, exclusive promotions, latest updates, and premium video showcases.",
     "campaigns": [
       {
         "id": "ubms_featured",
         "enabled": true,
         "title": "Quran Offline - قرآن بدون انترنت",
-        "description": "Discover the beauty of the Holy Quran! Read, listen to all 114 Surahs with MP3 audio, explore Quran Tafsir, and enjoy a peaceful reading experience with Night Mode anytime, anywhere. Keep the words of Allah close to your heart. Download now and make the Holy Quran part of your everyday life!"        "format": "video",
+        "description": "Discover the beauty of the Holy Quran! Read, listen to all 114 Surahs with MP3 audio, explore Quran Tafsir, and enjoy a peaceful reading experience with Night Mode anytime, anywhere. Keep the words of Allah close to your heart. Download now and make the Holy Quran part of your everyday life!",        
+        "format": "video",
         "placement": "both",
         "imageUrl": "https://play-lh.googleusercontent.com/8BldK1ipbfvV5bH_UxLGt-2V9w6HwXuG-RVkbMoZ-hPtMOIoYAoWytdSIxXjOMOBXB2Rd6Tt1zOPy_XY6jUPuao=w480-h960-rw",
         "videoUrl": "",
