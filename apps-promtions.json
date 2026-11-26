@@ -58,7 +58,7 @@
   "specialMarketing": {
     "enabled": true,
     "title": "Special App Marketing",
-    "description": "Featured projects, product updates and optional video previews.",
+    "description": "Explore our featured apps, exclusive promotions, latest updates, and premium video showcases."
     "campaigns": [
       {
         "id": "ubms_featured",
