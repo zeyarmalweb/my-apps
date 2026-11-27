@@ -16,7 +16,7 @@
     "appOpenOnColdStart": true,
     "appOpenOnResume": true,
     "appOpenMinimumBackgroundSeconds": 60,
-    "appOpenSkipFirstLaunch": true,
+    "appOpenSkipFirstLaunch": false,
     "campaigns": [
       {
         "id": "kankor-ads",
