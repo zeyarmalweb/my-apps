@@ -145,6 +145,23 @@
         "priority": 94
       },
       {
+        "id": "Abdul-Rahman-Mossad-ads",
+        "enabled": true,
+        "title": "Abdul Rahman Mossad - عبدالرحمن مسعد",
+        "description": "Listen to the Holy Quran – Abdul Rahman Mossad (عبدالرحمن مسعد); Enjoy the beautiful and heart-touching Quran recitation by Sheikh Abdul Rahman Mossad with this free Quran MP3 app. Listen to all 114 Surahs of the Holy Quran anytime, anywhere, on your Android phone or tablet. Explore high-quality Quran recitations, play your favorite Surahs, and listen online with ease. Experience the beauty of the Holy Quran wherever you go!",
+        "format": "image",
+        "placement": "all",
+        "imageUrl": "https://play-lh.googleusercontent.com/BZIYoTZPY3emH0rhoUjCnHc64eFUDWit2sqPkg9NPRbVM5wG1DSf9O0_PmLR7Go-nai8PcGr2_wwBearIJI_uQ=w480-h960-rw",
+        "videoUrl": "",
+        "androidUrl": "https://play.google.com/store/apps/details?id=com.shiragha.abdulrahman.mossad.mp3.quran",
+        "iosUrl": "https://apps.apple.com/us/app/offline-quran-mp3-audio/id6758916278",
+        "linkUrl": "",
+        "linkMode": "inApp",
+        "videoOpenMode": "external",
+        "ctaText": "Install Now",
+        "priority": 81
+      },
+      {
         "id": "quran-offline-feathured-ads",
         "enabled": true,
         "title": "Quran Offline - قرآن بدون انترنت",
